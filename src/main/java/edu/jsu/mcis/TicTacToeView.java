@@ -32,7 +32,7 @@ public class TicTacToeView {
 
         /* Display an error if input is invalid (see examples) */
 
-        /* INSERT YOUR CODE HERE */
+        System.out.println("Invalid Input!");
 
     }
 
